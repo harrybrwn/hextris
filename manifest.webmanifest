@@ -1,8 +1,8 @@
 {
 	"name": "Hextris",
-	"id": "hextris.io",
+	"id": "hrry.me",
 	"scope": ".",
-	"start_url": ".",
+	"start_url": "./games/hextris",
 	"display": "standalone",
 	"background_color": "#ecf0f1",
 	"description": "An addictive puzzle game inspired by Tetris.",
